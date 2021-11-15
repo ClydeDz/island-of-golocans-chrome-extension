@@ -1,0 +1,75 @@
+{
+  "manifest_version": 3,
+  "version": "0.0.1",
+  "name": "Island of Golocans Theme",
+  "description": "",
+  "author": "Clyde D'Souza",
+  "homepage_url": "https://github.com/ClydeDz/478-breathing-chrome-extension",
+  "theme": {
+    "images" : {
+      "theme_frame": "images/theme_frame.png",
+      "theme_toolbar": "images/theme_toolbar.png",
+      "theme_tab_background": "images/theme_tab_background.png",
+      "theme_ntp_background": "images/theme_ntp_background.png"
+    },
+    "colors": {
+      "frame": [
+          109,
+          229,
+          250
+      ],
+      "toolbar": [
+          255,
+          255,
+          255
+      ],
+      "tab_text": [
+          84,
+          45,
+          0
+      ],
+      "tab_background_text": [
+          84,
+          45,
+          0
+      ],
+      "bookmark_text": [
+          60,
+          64,
+          67
+      ],
+      "ntp_background": [
+          255,
+          255,
+          255
+      ],
+      "ntp_text": [
+          84,
+          45,
+          0
+      ],
+      "ntp_link": [
+          84,
+          45,
+          0
+      ],
+      "button_background": [
+          255,
+          209,
+          45,
+          1
+      ]
+    },
+    "tints": {
+        "buttons": [
+            0.09,
+            1,
+            0.16
+        ]
+    },
+    "properties": {
+        "ntp_background_alignment": "top",
+        "ntp_background_repeat": "no-repeat"
+    }
+  }
+}
