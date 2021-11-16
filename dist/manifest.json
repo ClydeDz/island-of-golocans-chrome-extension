@@ -5,6 +5,11 @@
   "description": "Make the fictional Island of Golocans your home in Chrome",
   "author": "Clyde D'Souza",
   "homepage_url": "https://github.com/ClydeDz/478-breathing-chrome-extension",
+  "icons": { 
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png",
+      "128": "icons/icon128.png"
+    },
   "theme": {
     "images" : {
       "theme_frame": "images/theme_frame.png",
