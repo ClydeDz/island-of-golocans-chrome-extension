@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
   "version": "0.0.2",
-  "name": "Island of Golocans Theme",
-  "description": "",
+  "name": "Island of Golocans",
+  "description": "Make the fictional Island of Golocans your home in Chrome",
   "author": "Clyde D'Souza",
   "homepage_url": "https://github.com/ClydeDz/478-breathing-chrome-extension",
   "theme": {
